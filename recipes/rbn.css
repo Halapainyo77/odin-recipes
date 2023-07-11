@@ -16,3 +16,8 @@ body {
 .list {
     background-color: beige;
 }
+
+div {
+    background-color:rgb(215, 215, 225);
+    width: 420px;
+}
