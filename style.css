@@ -20,6 +20,13 @@ h1 {
     text-align: center;
 }
 
-.links {
-    color:darkred;
+img {
+    width: 450px;
+    height: auto;
+    border-radius: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
 }
