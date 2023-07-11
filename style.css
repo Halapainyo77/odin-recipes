@@ -16,8 +16,13 @@ p {
     
 }
 
+
+
 h1 {
     text-align: center;
+    font-size: 40px;
+    background-color:rgb(232, 188, 171)
+
 }
 
 img {
@@ -29,4 +34,7 @@ img {
     margin-right: auto;
 
 
+}
+ul {
+    background-color: beige;
 }
