@@ -3,3 +3,16 @@ body {
      background-color: rgb(105, 225, 225);
     color: rgb(4, 110, 110);
 }
+
+#main-head, .head {
+    text-align: center;
+    background-color:rgb(232, 188, 171);
+}
+
+#main-head {
+    font-size: 40px;
+}
+
+.list {
+    background-color: beige;
+}
