@@ -1,6 +1,7 @@
 * {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color:rgb(232, 197, 153);
+    color: rgb(37, 149, 149);
 }
 
 p {
@@ -9,3 +10,4 @@ p {
 h1 {
     text-align: center;
 }
+
