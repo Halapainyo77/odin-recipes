@@ -35,7 +35,7 @@ p {
 }
 
 
-.list {
+.container {
     background-color:rgb(94, 197, 231);
     padding: 8px;
     border: 2px solid rgb(106, 106, 223);
@@ -46,6 +46,8 @@ p {
 
     
 }
+
+
 
 ul {
    font-size: 18px; 
